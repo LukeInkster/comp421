@@ -14,7 +14,7 @@ Your bullet-point summary might go something like this:
 * then we looked at the example of a single coin of unknown bentness
 * aside: intro / reminder of conventions in denoting PGMs (probabilistic graphical models) - unshaded nodes are "hidden" variables, shaded are "visible" variables, black balls are "assumed" variables. Think of _directed_ links as causal connections. That's probably enough to go on for now.
 * we used a "flat" prior
-* the (one) hidden variable is %$b$%, the true bentness of the coin, where "bentness" simply means its true probability of generating a head on any one throw. We don't know this - the variable is "hidden", also called "latent".
+* the (one) hidden variable is $b$, the true bentness of the coin, where "bentness" simply means its true probability of generating a head on any one throw. We don't know this - the variable is "hidden", also called "latent".
 * the visible node is the data. It's in a "plate", meaning there are _really_ several such nodes, one for every datum (coin toss), but drawing them all is tedious so we just draw one and use the rectangle instead. The "full" PGM would have a link from the one hidden unit to each of the individual datum units. There would be no connections between those datum units: this is the same as saying the data is assumed to be generated "i.i.d.".
 * with i.i.d. data, the new posterior can be used as the prior for subsequent events (or you can group all the events together and assess the total likelihood - the two are equivalent)
 * using the max likelihood value is prone to over-fitting if there's not enough data
