@@ -7,10 +7,11 @@ See [slides](big-bayes-slides.pdf) or the 4-slides-per-page [handouts](big-bayes
 
 Your bullet-point summary might go something like this:
 * Bayes theorem updates prior into posterior
-* aside: have a look at [[https://en.wikipedia.org/wiki/Bayesian_probability#Justification_of_Bayesian_probabilities]], for why we're taking it as read that probability theory is the language of inference
+* probability theory is [the language of inference](https://en.wikipedia.org/wiki/Bayesian_probability#Justification_of_Bayesian_probabilities)
 * we're usually interested in the posterior distribution over an unknown or "latent" variable
-* Bayes theorem tells us we need to first provide a prior distribution over it - it's obligatory
-* we looked at the example of a single coin of unknown bentness
+* Bayes theorem tells us we need to first provide a prior distribution over it, even before seeing any data - it's obligatory! Seems odd, but then it also seems obvious to incorporate background knowledge / assumptions.
+* we looked at the example of comparing two coins of known bentness
+* then we looked at the example of a single coin of unknown bentness
 * aside: intro / reminder of conventions in denoting PGMs (probabilistic graphical models) - unshaded nodes are "hidden" variables, shaded are "visible" variables, black balls are "assumed" variables. Think of _directed_ links as causal connections. That's probably enough to go on for now.
 * we used a "flat" prior
 * the (one) hidden variable is %$b$%, the true bentness of the coin, where "bentness" simply means its true probability of generating a head on any one throw. We don't know this - the variable is "hidden", also called "latent".
