@@ -36,6 +36,7 @@ Some possible project topics might be:
    * HMMs (e.g. import some data from some series and perhaps execute/learn in Genie or other implementation)
    * Learn a mixture of X's where X is not Gaussian. Can investigate cost of gradient, but probably make use of autograd to actually get it going quickly.
    * [Human-level concept learning through probabilistic program induction](http://science.sciencemag.org/content/350/6266/1332.full?utm_source=sciencemagazine]
+   * Investigate the [Dirichlet-Multinomial distribution](https://en.wikipedia.org/wiki/Dirichlet-multinomial_distribution) - a case where exact Bayesian inference is possible and almost hysterically fascinating (ask Marcus)
    * Your Suggestion Here
 
 The project is your own but it would be good to get a "go ahead" from me (MF) in each case.
