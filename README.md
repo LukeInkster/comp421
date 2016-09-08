@@ -13,14 +13,14 @@
 |  | | | 
 || *(break)* ||
 | **[Week 7](https://github.com/garibaldu/comp421/tree/master/week7) : Bayes** | **[Week 8](https://github.com/garibaldu/comp421/tree/master/week8) : directed PGMs** | **[Week 9](https://github.com/garibaldu/comp421/tree/master/week9) : inference over time** | 
-| language of inference | belief nets               | eg: HMMs | 
-| Bayesian predictions  | sum-product, max-sum      | Kalman filters, particle filters | 
-| Gaussian processes    | eg: mixtures of Gaussians | Q & A | 
+| language of inference | Gaussian processes    | time: HMMs, Kalman filters, particle filters  | 
+| Bayesian predictions  | belief nets refresher | time: (cont.) --> Recurrent NNs               | 
+| Discussion            | mixture models        | time: 2 LSTM papers (2 presenters)            | 
 |  | | | 
-| **[Week 10](https://github.com/garibaldu/comp421/tree/master/week10) : undirected PGMs** | **[Week 11](https://github.com/garibaldu/comp421/tree/master/week11) : deep generative models** | **[Week 12](https://github.com/garibaldu/comp421/tree/master/week12) : the next big thing** | 
-| Boltzmann machines | papers 4 | discussion | 
-| Restricted BMs     | papers 5 | 3 crazy ideas | 
-| deep generative    | papers 6 | wrap up | 
+| **[Week 10](https://github.com/garibaldu/comp421/tree/master/week10) : undirected PGMs** | **[Week 11](https://github.com/garibaldu/comp421/tree/master/week11) : deep generative models** | **[Week 12](https://github.com/garibaldu/comp421/tree/master/week12) : stuff** | 
+| Boltzmann machines | papers 4 (2 presenters) | (2 presenters)discussion | 
+| Restricted BMs     | papers 5 (2 presenters) | 3 crazy ideas  (2 presenters)| 
+| deep generative (2 presenters) | papers 6 (2 presenters) | wrap up | 
 
 
 # Assessment structure:
@@ -44,4 +44,7 @@ __Pull requests__ Add some notes of what you lecture up here, scribbles/notes of
 __Raise an issue.__ Ask questions, clarify course matrial, ... ?? Just treat it like a forum.
 
 These will be the notes and resources the exams and assignments are built from. It should (hopefully) serve as good study material.
+
+# Want more
+If you want to take part in the Machine Learning and Complex Systems research group at ECS, you're very welcome to come along to weekly meetups and so on - announcements/chat on [gitter](https://gitter.im/festivalvic/Lobby).
 
