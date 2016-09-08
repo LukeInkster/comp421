@@ -2,7 +2,7 @@
 This week is about getting some familiarity with the range of applications possible with deep feed-forward architectures.
 
 ## Colouring in of gray-scale images
-`(Tuesday: led by Scott, and ...)`
+`(Tuesday: led by Scott, and Scott)`
 * this is an application
 * Colouring in of gray-scale images - see the links for this in ["inspirational applications of deep learning"](http://machinelearningmastery.com/inspirational-applications-deep-learning/)
 ** [colorization](http://people.cs.uchicago.edu/~larsson/colorization/)
