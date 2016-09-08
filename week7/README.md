@@ -1,9 +1,11 @@
-# Week 7 - still figuring out what best to do this week.
-
+# Week 7 - The Bayesian Way
 
 ## The Bayesian Way 
-`(Tuesday, and then Wednesday too: Marcus)`
+`(Tuesday, and Wednesday too, and then a discussion on Friday: Marcus)`
 
+See [slides](big-bayes-slides.pdf) or the 4-slides-per-page [handouts](big-bayes-handouts.pdf)
+
+Your bullet-point summary might go something like this:
 * Bayes theorem updates prior into posterior
 * aside: have a look at [[https://en.wikipedia.org/wiki/Bayesian_probability#Justification_of_Bayesian_probabilities]], for why we're taking it as read that probability theory is the language of inference
 * we're usually interested in the posterior distribution over an unknown or "latent" variable
@@ -19,8 +21,11 @@
 * but _really_ both these approaches are wrong, since they involve (premature) maximization!
 * we looked at how a true-blue Bayesian makes predictions without doing any such maximization.
 
-
-## Third lect
-`(Friday: Marcus)`
-* stuff
-
+## Third session: discussion and extension
+* do we understand optimization vs inference? Review log loss as likelihood, and reconsider regularisation as the effect of a prior. EG: NN with weight decay == MAP inference with a Gaussian prior on weights.
+* the fully Bayesian prediction doesn't overfit: overfitting is a consequence of optimization, not inference
+* how a Bayesian chooses between two different models (Bayes factor)
+* why Bayes embodies Ockham's razor
+* so what's the problem? That integration. Maybe this is a lecture next week then:
+   * exact cases: Dirichlet-multinomial, Gaussian process...
+   * integration by sampling: MCMC (Metropolis and Gibbs).
