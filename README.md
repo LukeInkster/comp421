@@ -12,15 +12,15 @@
 | Alex Net | basics of RL | Q & A | 
 |  | | | 
 || *(break)* ||
-| **[Week 7](https://github.com/garibaldu/comp421/tree/master/week7) : Bayes** | **[Week 8](https://github.com/garibaldu/comp421/tree/master/week8) : directed PGMs** | **[Week 9](https://github.com/garibaldu/comp421/tree/master/week9) : inference over time** | 
-| language of inference | Gaussian processes    | time: HMMs, Kalman filters, particle filters  | 
-| Bayesian predictions  | belief nets refresher | time: (cont.) --> Recurrent NNs               | 
-| Discussion            | mixture models        | time: 2 LSTM papers (2 presenters)            | 
+| **[Week 7](https://github.com/garibaldu/comp421/tree/master/week7) : Bayes** | **[Week 8](https://github.com/garibaldu/comp421/tree/master/week8) : More Bayes** | **[Week 9](https://github.com/garibaldu/comp421/tree/master/week9) : causal models** | 
+| language of inference | Gaussian processes    | More on belief nets |
+| Bayesian predictions  | GP cont.              | Mixture models   |
+| Discussion            | Bayesian belief nets  | HMMs             |
 |  | | | 
-| **[Week 10](https://github.com/garibaldu/comp421/tree/master/week10) : undirected PGMs** | **[Week 11](https://github.com/garibaldu/comp421/tree/master/week11) : deep generative models** | **[Week 12](https://github.com/garibaldu/comp421/tree/master/week12) : stuff** | 
-| Boltzmann machines | papers 4 (2 presenters) | (2 presenters)discussion | 
-| Restricted BMs     | papers 5 (2 presenters) | 3 crazy ideas  (2 presenters)| 
-| deep generative (2 presenters) | papers 6 (2 presenters) | wrap up | 
+| **[Week 10](https://github.com/garibaldu/comp421/tree/master/week10) : time** | **[Week 11](https://github.com/garibaldu/comp421/tree/master/week11) : uns (undirected PGMs, unsupervised, unplugged)** | **[Week 12](https://github.com/garibaldu/comp421/tree/master/week12) : deep generative models** | 
+| HMMs, Kalman filters, particle filters | Boltzmann machines | papers 4 (2 presenters) | 
+| (cont.) --> Recurrent NNs              | Restricted BMs     | papers 5 (2 presenters) | 
+| 2 LSTM papers (2 presenters)           | deep generative (2 presenters) | papers 6 (2 presenters) |
 
 
 # Assessment structure:
@@ -30,12 +30,11 @@
    * 40 for a 2 hour exam
  
 # Awesome resources
-
 * [Colah's blog](http://colah.github.io/)
 * [Karpathy's blog](http://karpathy.github.io/)
 * [Tensorflow playground](http://playground.tensorflow.org/)
 * [Gym for RL](https://gym.openai.com/)
-* 
+
 
 # Contribute!
 
