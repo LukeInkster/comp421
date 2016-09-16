@@ -13,14 +13,14 @@
 |  | | | 
 || *(break)* ||
 | **[Week 7](https://github.com/garibaldu/comp421/tree/master/week7) : Bayes** | **[Week 8](https://github.com/garibaldu/comp421/tree/master/week8) : More Bayes** | **[Week 9](https://github.com/garibaldu/comp421/tree/master/week9) : causal models** | 
-| language of inference | Gaussian processes    | More on belief nets |
-| Bayesian predictions  | GP cont.              | Mixture models   |
-| Discussion            | Bayesian belief nets  | HMMs             |
+| language of inference | Gaussian processes               | Belief nets |
+| Bayesian predictions  | GP cont.                         | Belief nets cont.   |
+| Discussion            | MCMC (eg: Bayesian neural nets)  | eg: Mixtures of Gaussians, HMMs |
 |  | | | 
 | **[Week 10](https://github.com/garibaldu/comp421/tree/master/week10) : time** | **[Week 11](https://github.com/garibaldu/comp421/tree/master/week11) : uns (undirected PGMs, unsupervised, unplugged)** | **[Week 12](https://github.com/garibaldu/comp421/tree/master/week12) : deep generative models** | 
-| HMMs, Kalman filters, particle filters | Boltzmann machines | papers 4 (2 presenters) | 
-| (cont.) --> Recurrent NNs              | Restricted BMs     | papers 5 (2 presenters) | 
-| 2 LSTM papers (2 presenters)           | deep generative (2 presenters) | papers 6 (2 presenters) |
+| cf: HMMs, Kalman filters, particle filters | Variational AE tutorial and paper (2 presenters) | papers 4 (2 presenters) | 
+| (cont.) --> Recurrent NNs                  | Variational AE tutorial and paper (2 presenters) | papers 5 (2 presenters) | 
+| 2 LSTM papers (2 presenters)               | Adversarial generative ? (2 presenters)               | Q and A |
 
 
 # Assessment structure:
