@@ -1,5 +1,9 @@
 # Week 9 - Belief nets
 
+_Note: remember to explore any ipython notebooks in this directory._
+
+
+
 
 ## Belief nets introduction
 `(Tuesday: Marcus)`
