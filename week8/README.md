@@ -10,3 +10,4 @@ See [slides](Gaussian_Process_slides.pdf) or as [handouts](Gaussian_Process_hand
 ## Metropolis (MCMC) via an example: Bayesian neural nets.
 '(Friday: Marcus)'
 See [slides](Metropolis_slides.pdf) or as [handouts](Metropolis_handouts.pdf)
+* beware the copy-and-paste typo in the figures at the end: the number of hidden units can be detected by looking at the curves (e.g. if they're simple sigmoids then there's 1 hidden, if the look like two sigmoids added together then... etc.)
