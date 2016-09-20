@@ -1,3 +1,5 @@
+_Note: explore the ipython notebooks in this directory._
+
 This week is about learning the parameters of a predictor. We'll look at three flavours: polynomials, neural nets, and radial basis functions. We will see that each has its own strengths and weaknesses.
 
 ***
