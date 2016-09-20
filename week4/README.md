@@ -1,3 +1,6 @@
+_Note: explore the ipython notebooks in this directory._
+
+
 This week we look at more of the lore of feed-forward neural nets (FFNN) - from vanilla back-prop to 'deep nets'.
 
 
