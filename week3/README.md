@@ -20,6 +20,7 @@ See also [neural networks and deep learning, Chapter 2](http://neuralnetworksand
 ***
 
 # A basic hands-on session 
+`(3rd lecture slot)`
 
 if you have a laptop, bring it.
 
