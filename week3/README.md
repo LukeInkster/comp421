@@ -29,4 +29,4 @@ Aims:
  * if you get that far, but not everyone has yet please help someone else!
  * interact with the [comp421 repository on github](https://github.com/garibaldu/comp421) - even if you never push back, you should pull it regularly.
  * if you get that far, but not everyone has yet please help someone else!
- * from the [notebooks](https://github.com/garibaldu/comp421/tree/master/notebooks) directory invoke _ipython notebook_ and step through the notebooks on "knn on little digits", and "marcus play backprop"
+ * invoke _ipython notebook_ and step through the notebooks on "knn on little digits" (in week1 directory), and "Backprop_marcus" (in week3 directory).
