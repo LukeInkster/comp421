@@ -1,5 +1,7 @@
 # Week 1 - introductions and straw men
 
+Note: make sure you explore the ipython notebooks in this directory.
+
 ## First lecture 
 `(Marcus)`
 was an introduction to what we're going to cover, and how we could assess it.
