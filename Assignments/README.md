@@ -11,7 +11,9 @@ Marcus
 The [Second assignment](SecondAssignment.ipynb) is out. The due date is September the 12th, which is the "second Monday back" (but think about submitting it early for kicks, in order to move to other things?).
 
 ## Assignment 3
-Will be about something.
+The [Third assignment](ThirdAssignment.ipynb) is out.
+The nominal due date for this will be Monday 3rd Oct (I will change the submission system to reflect this shortly). Talk to Marcus if you need more time (I'm happy to allow it but want to avoid letting this assignment detract from work on, say, your 489 project writing).
+
 
 ## Project
 There is a 20% project aspect to this course, and a shortish "interview" to go with it. 
