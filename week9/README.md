@@ -15,7 +15,9 @@ _Note: remember to explore any ipython notebooks in this directory._
 * this is really an example of a really really simple belief net
 * [slides](mix_of_Gaussian_slides.pdf) 
 
-## EM algorithm in general / other PGM stuff (incl. undirected?)
+## An interesting decomposition
 `(Friday: Marcus)`
+* as advertised, the details in the math of this are not examinable
+* [slides](decomposition.pdf) and [handouts]()
 
 
