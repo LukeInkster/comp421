@@ -8,6 +8,7 @@ _Note: remember to explore any ipython notebooks in this directory._
 ## Belief nets introduction
 `(Tuesday: Marcus)`
 * [slides](belief_nets_slides.pdf)  and [handouts](belief_nets_handouts.pdf) 
+* larger version of [Barber's pic](family-of-PGMs1.png)
 * also: the [project](https://github.com/garibaldu/comp421/blob/master/Assignments/Project.md) - should definitely think about what to do now.
 
 ## Mixtures of Gaussians
