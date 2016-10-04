@@ -17,10 +17,10 @@
 | Bayesian predictions  | GP cont.                         | Belief nets cont.   |
 | Discussion            | MCMC (eg: Bayesian neural nets)  | eg: Mixtures of Gaussians, HMMs |
 |  | | | 
-| **[Week 10](https://github.com/garibaldu/comp421/tree/master/week10) : time** | **[Week 11](https://github.com/garibaldu/comp421/tree/master/week11) : uns (undirected PGMs, unsupervised, unplugged)** | **[Week 12](https://github.com/garibaldu/comp421/tree/master/week12) : deep generative models** | 
-| cf: HMMs, Kalman filters, particle filters | Variational AE tutorial and paper (2 presenters) | papers 4 (2 presenters) | 
-| (cont.) --> Recurrent NNs                  | Variational AE tutorial and paper (2 presenters) | papers 5 (2 presenters) | 
-| 2 LSTM papers (2 presenters)               | Adversarial generative ? (2 presenters)               | Q and A |
+| **[Week 10](https://github.com/garibaldu/comp421/tree/master/week10) : time** | **[Week 11](https://github.com/garibaldu/comp421/tree/master/week11) : mostly more time** | **[Week 12](https://github.com/garibaldu/comp421/tree/master/week12) : deep generative models** | 
+| Hidden Markov Models           | LSTM and GRU - smarter RNNs                | Variational AE, cont. | 
+| (cancelled)                    | Variational Autoencoder                    | Adversarial Autoencoder | 
+| Intro to Recurrent Neural Nets | HMMS vs Kalman filters vs Particle filters | Adversarial AE, cont. |
 
 
 # Assessment structure:
