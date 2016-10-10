@@ -13,4 +13,5 @@
 
 ## Adversarial autoencoders, continued.
 `(Friday: Alex and Linfeng)`
+* Adversarial autoencoders, continued.
 * This is also the last lecture  of COMP421! I will quickly talk about the exam: the titles of questions. The exam will have 7 questions, of which you can choose any 5. One of those is to discuss one out of "Autoencoding Variational Bayes" and "Adversarial Autoencoders", so that's good incentive for us to nail the ideas in the above papers. 
