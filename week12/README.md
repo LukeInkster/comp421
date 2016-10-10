@@ -4,7 +4,7 @@
 ## Variational autoencoders, continued.
 `(Tuesday: Yi and Max)`
 * last week we looked at a [Tutorial on Variational Autoencoders](http://arxiv.org/abs/1606.05908)
-* [slides](variational_autoencoders.pdf)
+* [slides](../week11/variational_autoencoders.pdf)
 * we will continue this discussion (and get to the the main paper [Autoencoding Variational Bayes](http://arxiv.org/abs/1606.05908)).
 
 ## Adversarial autoencoders
