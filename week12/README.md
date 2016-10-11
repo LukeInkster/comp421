@@ -5,7 +5,7 @@
 `(Tuesday: Yi and Max)`
 * last week we looked at a [Tutorial on Variational Autoencoders](http://arxiv.org/abs/1606.05908)
 * [slides](../week11/variational_autoencoders.pdf)
-* we will continue this discussion (and get to the the main paper [Autoencoding Variational Bayes](http://arxiv.org/abs/1606.05908)).
+* we will continue this discussion (and get to the the main paper [Autoencoding Variational Bayes](https://arxiv.org/abs/1312.6114).
 
 ## Adversarial autoencoders
 `(Wednesday: Edward and Josiah)`
