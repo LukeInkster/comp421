@@ -16,7 +16,7 @@ The nominal due date for this will be Monday 3rd Oct (I will change the submissi
 
 
 ## Project
-There is a 20% project aspect to this course, and a shortish "interview" to go with it. 
+There is a 20% project aspect to this course, with a 5-6 page report and a shortish "interview" to go with it. 
 
 At this point the report doesn't have a particular deadline other than the end of the examination period - but we should endeavour to get it in with enough time for me to read it before we meet. However this can all still happen in the "examination period", and the timing can be made friendly to your other time constraints on a per-student basis. Note on scope: this project needs to be such that basic results / insight is easily achievable in the time of a 20 percent assessment item in a 15 point course! How many hours is that? Don't let it make a hole in the vastly more significant project of 489, for example. 
 
