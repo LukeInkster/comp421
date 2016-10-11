@@ -11,7 +11,7 @@
 `(Wednesday: Luke and Harry)`
 * we looked at a [Tutorial on Variational Autoencoders](http://arxiv.org/abs/1606.05908)
 * [slides](variational_autoencoders.pdf)
-* we will continue this discussion (and get to the the main paper [Autoencoding Variational Bayes](http://arxiv.org/abs/1606.05908)) next Tuesday.
+* we will continue this discussion (and get to the the main paper [Autoencoding Variational Bayes](https://arxiv.org/abs/1312.6114) next Tuesday.
 
 ## Catch-up: HMMs vs Kalman Filters vs Particle Filters
 `(Friday: Marcus) NB. we're doing this now rather than a straight continuation of VAE stuff, as Max is away)'
