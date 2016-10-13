@@ -14,6 +14,10 @@
 `(Friday: Alex and Linfeng)`
 * Adversarial autoencoders, continued.
 
+## Seeking your feedback on the Course and the Teaching
+* On your main Blackboard page, you should see (top right I think) requests for feedback.
+* Please (please!) do fill in these! I want to hear what you thought of the way I ran COMP421 this year, especially whether the "loose" discussion oriented stuff helped you to be interested and to learn. Plus it's a really bad look if nobody does the jolly form :)
+
 ## About the exam 
 * on 10th November in KK202 (check), in the afternoon - starts 2:30pm, for two hours
 * The exam will have 7 questions, of which you can choose any 5. If you answer more than five, only the best five will be counted.
