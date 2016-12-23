@@ -1,3 +1,6 @@
+_Note: explore the ipython notebooks in this directory._
+
+
 # First lecture
 This lecture looks at a couple of important distributions used in machine learning.
 

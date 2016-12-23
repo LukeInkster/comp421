@@ -1,3 +1,5 @@
+
+
 # Week 7 - The Bayesian Way
 
 ## The Bayesian Way 

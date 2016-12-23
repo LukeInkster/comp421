@@ -1,3 +1,5 @@
+_Note: explore the ipython notebooks in this directory._
+
 This week is about learning the parameters of a predictor. We'll look at three flavours: polynomials, neural nets, and radial basis functions. We will see that each has its own strengths and weaknesses.
 
 ***
@@ -18,6 +20,7 @@ See also [neural networks and deep learning, Chapter 2](http://neuralnetworksand
 ***
 
 # A basic hands-on session 
+`(3rd lecture slot)`
 
 if you have a laptop, bring it.
 
@@ -27,4 +30,4 @@ Aims:
  * if you get that far, but not everyone has yet please help someone else!
  * interact with the [comp421 repository on github](https://github.com/garibaldu/comp421) - even if you never push back, you should pull it regularly.
  * if you get that far, but not everyone has yet please help someone else!
- * from the [notebooks](https://github.com/garibaldu/comp421/tree/master/notebooks) directory invoke _ipython notebook_ and step through the notebooks on "knn on little digits", and "marcus play backprop"
+ * invoke _ipython notebook_ and step through the notebooks on "knn on little digits" (in week1 directory), and "Backprop_marcus" (in week3 directory).
